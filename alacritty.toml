@@ -11,10 +11,10 @@ normal.family = "JetBrainsMono NF"
 bold.family = "JetBrainsMono NF"
 italic.family = "JetBrainsMono NF"
 bold_italic.family = "JetBrainsMono NF"
-size = 16
+size = 14
 
 [colors.primary]
-background = '#141415'
+background = '#0b0b0b'
 foreground = '#cdcdcd'
 
 [colors.normal]
