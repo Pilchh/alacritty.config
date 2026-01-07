@@ -2,7 +2,7 @@
 shell = "/bin/zsh"
 
 [window]
-opacity = 0.85
+# opacity = 0.85
 padding.x = 10
 padding.y = 10
 
@@ -14,7 +14,7 @@ bold_italic.family = "JetBrainsMono NF"
 size = 14
 
 [colors.primary]
-background = '#0b0b0b'
+background = '#141415'
 foreground = '#cdcdcd'
 
 [colors.normal]
@@ -36,3 +36,30 @@ blue = '#8ba9c1'
 magenta = '#c9b1ca'
 cyan = '#bebeda'
 white = '#d7d7d7'
+
+# Default colors
+# [colors.primary]
+# background = '#171B20'
+# foreground = '#E7EAEE'
+#
+# # Normal colors
+# [colors.normal]
+# black = '#171b20'
+# red = '#F97791'
+# green = '#38FFA5'
+# yellow = '#FFCB77'
+# blue = '#5CCEFF'
+# magenta = '#B1A2FF'
+# cyan = '#0AE7FF'
+# white = '#a9b1d6'
+#
+# # Bright colors
+# [colors.bright]
+# black = '#414868'
+# red = '#F73F64'
+# green = '#41FFDC'
+# yellow = '#FFE77A'
+# blue = '#89BEFF'
+# magenta = '#FFB3EC'
+# cyan = '#00FBFF'
+# white = '#E7EAEE'
